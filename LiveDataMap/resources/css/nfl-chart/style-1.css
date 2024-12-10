@@ -1,0 +1,51 @@
+
+ .title {
+	font: normal 3em Tahoma,sans-serif;
+}
+ 
+ body{
+	background: #000000;
+	font: normal 62.5% "Trebuchet MS",Verdana,sans-serif;
+	color: #DDD;
+ }
+ 
+ p,code,ul {padding-bottom: 1.2em;}
+
+h1 {
+	font: normal 1.8em Tahoma,sans-serif;
+	margin-bottom: 4px;
+}
+
+h2 {background: url(../../images/nfl-chart/stripes.gif) repeat-x left bottom; color: #FA9600; font: normal 2em Impact,sans-serif; margin-bottom: 8px; padding-bottom: 11px; letter-spacing: 1px;}
+
+blockquote {
+	color: #CCA;
+	display: block;
+	font-weight: bold;
+	padding-left: 28px;
+}
+
+h1,h2 {padding-top: 6px;}
+ 
+.main{
+    padding-left:300px;
+    margin:0;
+}
+.sidebar{
+   position:fixed;
+   height:100%;
+   width:250px; 
+   top:0;
+   left:0;
+}
+.content{
+    width:100%;
+    height:1600px;
+}
+
+
+
+.sidenav {
+	background: url(img/bg1.jpg) no-repeat top right;
+	padding-top: 251px;
+}

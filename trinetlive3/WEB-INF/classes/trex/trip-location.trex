@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest manifest-version="0.1" xmlns="http://www.tableau.com/xml/extension_manifest">
+  <dashboard-extension id="com.trinet.trex.triplocation" extension-version="0.6.0">
+    <default-locale>en_US</default-locale>
+    <name resource-id="trip-location"/>
+    <description>TRIP LOCATION</description>
+    <author name="rammohan" email="grammohan@stratapps.com" organization="trinet" website="https://www.trinet.com"/>
+    <min-api-version>0.9</min-api-version>
+    <source-location>
+      <url>https://api.stratapps.net/trinet/trip-location</url>
+    </source-location>
+    <permissions>
+    	       <permission>full data</permission>
+            </permissions>
+	<context-menu>
+      <configure-context-menu-item />
+    </context-menu>
+  </dashboard-extension>
+  <resources>
+    <resource id="trip-location">
+      <text locale="en_US">TRIP LOCATION</text>
+    </resource>
+  </resources>
+</manifest>

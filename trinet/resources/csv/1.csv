@@ -1,0 +1,89 @@
+Application,Category,Subscription Type,Display Name,Version Name,Report ID
+WFA,Benefits,CORE,Benefit Elections,Benefit Elections,d76a8619-7f22-469e-9f3c-80ab450490fd
+WFA,Benefits,CORE,Leave Accrual,Leave Accrual,d8cd7b33-eb78-42a6-98fa-5e22fc8bf738
+WFA,Benefits,CORE,Leave Hours,Leave Hours,cfc33199-7149-4acb-9bb3-96d0dd52ace8
+WFA,Benefits,CORE,Retirement Usage,Retirement Usage,
+WFA,Human Resource,CORE,Address Change,Address Change,1be69b84-ccef-4044-a7aa-d9a0a24df747
+WFA,Human Resource,CORE,Census,Census,04c4602d-4fcd-45f4-aa26-6662d8a9aaed
+WFA,Human Resource,CORE,Custom Fields,Custom Fields,13475a28-343f-4cf3-94d9-af2be6a3c840
+WFA,Human Resource,CORE,Departmental Salaries,Departmental Salaries,0b341a7f-4144-42d6-902b-3c49810a5aa6
+WFA,Human Resource,CORE,Emergency Contact,Emergency Contact,fb0ac8d0-238d-4f41-9866-25e889060bee
+WFA,Human Resource,CORE,Employee Birthday,Employee Birthday,b404d3ad-5e88-4c02-ad29-7bfcdebba6fc
+WFA,Human Resource,CORE,Job Data Change,Job Data Change,ce202a5e-7eb1-49ee-8647-71c4f4973d67
+WFA,Human Resource,CORE,Personnel Actions History,Personnel Actions History,b3e8781f-7c55-44f9-b3fd-8d76548dc520
+WFA,Human Resource,CORE,Termination Analysis,Termination Analysis,3ed2fd21-d575-4886-95a1-aee0561a9112
+WFA,Human Resource,CORE,Years of Service,Years of Service,2d0eba50-9cc7-4eb5-830a-98b6a024cce9
+WFA,Payroll & Accounting,CORE,Additional Pay,Additional Pay,b903a302-a712-4c2c-ac9b-c30b63b7d02c
+WFA,Payroll & Accounting,CORE,Benefits Register,Benefits Register,3e16ac7a-b488-471c-9ff2-6622e6588a16
+WFA,Payroll & Accounting,CORE,Certified Payroll,Certified Payroll,
+WFA,Payroll & Accounting,DETAIL,Check Detail,Check Detail,12dfc7d1-73ed-4582-b055-fe752c223151
+WFA,Payroll & Accounting,CAN,Check Detail,Check Detail - Canadian,8c569ce0-eef9-41b9-9b3e-83bfefeed6fd
+WFA,Payroll & Accounting,PM1,Check Detail,Check Detail - PM1,8c254c32-7693-49b0-8eac-eeb7432c2709
+WFA,Payroll & Accounting,PM2,Check Detail,Check Detail - PM2,2d658570-6fb4-4242-8703-714b42ec8c41
+WFA,Payroll & Accounting,PM3,Check Detail,Check Detail - PM3,47c9baa8-a066-4aec-8621-1de701cc5675
+WFA,Payroll & Accounting,PM4,Check Detail,Check Detail - PM4,4097b30f-7414-492b-81e9-145f66a9296d
+WFA,Payroll & Accounting,SMB,Check Detail,Check Detail - SMB,
+WFA,Payroll & Accounting,DETAIL,Cost Center Expense,Cost Center Expense,932e1b1b-2dd2-4c67-87be-5bb2ef3e6ac3
+WFA,Payroll & Accounting,CAN,Cost Center Expense,Cost Center Expense - Canadian,50decb74-1497-4fcc-b5f2-74d9bd36a1c6
+WFA,Payroll & Accounting,PM1,Cost Center Expense,Cost Center Expense - PM1,a67626a7-7a0c-491f-999b-307aaf101591
+WFA,Payroll & Accounting,PM2,Cost Center Expense,Cost Center Expense - PM2,553be80d-b266-443e-b389-0ad9294ca081
+WFA,Payroll & Accounting,PM3,Cost Center Expense,Cost Center Expense - PM3,5b35b028-a22d-48d5-b450-f941e3db9c61
+WFA,Payroll & Accounting,PM4,Cost Center Expense,Cost Center Expense - PM4,13bf1aa6-bc0d-4418-b8f1-22436c23131c
+WFA,Payroll & Accounting,SMB,Cost Center Expense,Cost Center Expense - Summary Billing,49553f29-38d3-43c3-b924-03e9a26521f4
+WFA,Payroll & Accounting,DETAIL,Cost Center Expense by Job,Cost Center Expense by Job,1bbabd38-07c1-4118-a1dd-90446d2f439b
+WFA,Payroll & Accounting,PM1,Cost Center Expense by Job,Cost Center Expense by Job - PM1,
+WFA,Payroll & Accounting,PM2,Cost Center Expense by Job,Cost Center Expense by Job - PM2,
+WFA,Payroll & Accounting,PM3,Cost Center Expense by Job,Cost Center Expense by Job - PM3,
+WFA,Payroll & Accounting,PM4,Cost Center Expense by Job,Cost Center Expense by Job - PM4,
+WFA,Payroll & Accounting,DETAIL,Cost Center YTD,Cost Center YTD,a800e2b0-f280-4691-bde6-89d057aaf732
+WFA,Payroll & Accounting,CAN,Cost Center YTD,Cost Center YTD - Canadian,7240e650-d3d4-41fb-adc3-9eebb9b93c5f
+WFA,Payroll & Accounting,PM1,Cost Center YTD,Cost Center YTD - PM1,42b91e72-c837-40f9-8894-66ae1ddef306
+WFA,Payroll & Accounting,PM2,Cost Center YTD,Cost Center YTD - PM2,31aa0d00-2ec5-457c-afb5-34ee2d30d0f3
+WFA,Payroll & Accounting,PM3,Cost Center YTD,Cost Center YTD - PM3,43704d4f-71f5-4689-98a1-c1a99909c6f2
+WFA,Payroll & Accounting,PM4,Cost Center YTD,Cost Center YTD - PM4,7a4ddf54-dde1-457b-aeae-e96cbfe36c88
+WFA,Payroll & Accounting,SMB,Cost Center YTD,Cost Center YTD - Summary Billing,5b31b35a-6e51-4485-8fa3-dd18f3042b6f
+WFA,Payroll & Accounting,CORE,Deductions Register,Deductions Register,aee0878e-7e5f-4ef2-bb1f-c608a0776d03
+WFA,Payroll & Accounting,CORE,Earnings and Deductions,Earnings and Deductions,7a4ddf54-dde1-457b-aeae-e96cbfe36c88
+WFA,Payroll & Accounting,CORE,EEO Detail Audit Report,EEO Detail Audit Report,
+WFA,Payroll & Accounting,CAN,Employer Benefits Contribution,Employer Benefits Contribution,
+WFA,Payroll & Accounting,CORE,General Deductions,General Deductions,4822dcc9-5feb-46ca-b1e4-4efb3fade725
+WFA,Payroll & Accounting,CORE,General Ledger,General Ledger,
+WFA,Payroll & Accounting,CAN,Invoice,Invoice - Canadian,59bfef2d-f06e-4f2f-a2df-fff8af37b75d
+WFA,Payroll & Accounting,PM1,Invoice,Invoice - PM1,
+WFA,Payroll & Accounting,PM2,Invoice,Invoice - PM2,
+WFA,Payroll & Accounting,PM3,Invoice,Invoice - PM3,
+WFA,Payroll & Accounting,PM4,Invoice,Invoice - PM4,
+WFA,Payroll & Accounting,DETAIL,Invoice,Invoice - US,f27f12b9-dc77-450a-973f-33cb41eecaf5
+WFA,Payroll & Accounting,DETAIL,Invoice Supporting Details,Invoice Supporting Details,61e5a3c5-fb4f-47b5-a97f-8af606da4780
+WFA,Payroll & Accounting,PM1,Invoice Supporting Details,Invoice Supporting Details - PM1,
+WFA,Payroll & Accounting,PM2,Invoice Supporting Details,Invoice Supporting Details - PM2,
+WFA,Payroll & Accounting,PM3,Invoice Supporting Details,Invoice Supporting Details - PM3,
+WFA,Payroll & Accounting,PM4,Invoice Supporting Details,Invoice Supporting Details - PM4,
+WFA,Payroll & Accounting,SMB,Invoice Supporting Details,Invoice Supporting Details - Summary Billing,d0f416ac-cb0c-46e9-a290-865fb7c3b77e
+WFA,Payroll & Accounting,DETAIL,Invoice Supporting Register,Invoice Supporting Register,832cda96-4ed1-43cd-b8b6-2449654fefd7
+WFA,Payroll & Accounting,PM1,Invoice Supporting Register,Invoice Supporting Register  - PM1,bc69f0fd-2136-46b6-beff-4bf9b5208871
+WFA,Payroll & Accounting,PM2,Invoice Supporting Register,Invoice Supporting Register  - PM2,06ca3e8f-10d0-4576-a371-e6e41611800d
+WFA,Payroll & Accounting,PM3,Invoice Supporting Register,Invoice Supporting Register  - PM3,223096de-c812-4466-ad39-f9645bfac22c
+WFA,Payroll & Accounting,PM4,Invoice Supporting Register,Invoice Supporting Register  - PM4,36f748f0-7efb-482f-8094-b5d1f36c78e5
+WFA,Payroll & Accounting,CAN,Invoice Supporting Register,Invoice Supporting Register - Canadian,ab0f9c12-2a71-4df7-baa2-5185f69e7a81
+WFA,Payroll & Accounting,SMB,Invoice Supporting Register,Invoice Supporting Register - Summary Billing,19795ddb-ef0c-41ec-8543-41dc8568fa1d
+WFA,Payroll & Accounting,CORE,Payroll Register,Payroll Register,7d0fcc67-54ce-48c8-9c60-c253b914dc57
+WFA,Payroll & Accounting,CORE,Payroll Register Details,Payroll Register Details,b69716b8-2048-4163-8e59-52ec11521760
+WFA,Payroll & Accounting,CORE,Payroll Register Excel with Employer Charges,Payroll Register Excel with Employer Charges,ee4bbe38-1130-4166-88e4-d8546372ef13
+WFA,Payroll & Accounting,CORE,Payroll Register PDF with Employer Charges,Payroll Register PDF with Employer Charges,6c451d0f-ef2c-4467-8255-126691ecd53d
+WFA,Payroll & Accounting,DETAIL,Payroll Register YTD,Payroll Register YTD,a756d434-49a2-4f90-a987-a04adefe00d2
+WFA,Payroll & Accounting,CAN,Payroll Register YTD,Payroll Register YTD - Canadian,93611e73-9c74-4da9-91f5-41950ed6b73e
+WFA,Payroll & Accounting,CORE,Time Card Worksheet - TIMWR5,Time Card Worksheet - TIMWR5,a9c537c8-f89f-42fd-a940-79c1e72b8c68
+WFA,Payroll & Accounting,CORE,Time Card Worksheet - TIMWR6,Time Card Worksheet - TIMWR6,d855fc23-4827-4f68-a235-629d1d54aa0f
+WFA,Payroll & Accounting,DETAIL,YTD Check Detail with Invoice Level Charges,YTD Check Detail with Invoice Level Charges,d275c11a-1b09-4467-bc17-4f563abbb1b3
+WFA,Payroll & Accounting,PM1,YTD Check Detail with Invoice Level Charges,YTD Check Detail with Invoice Level Charges -PM1,81bc9ed7-e8d3-48cd-9004-74f1fa4e54b7
+WFA,Payroll & Accounting,PM2,YTD Check Detail with Invoice Level Charges,YTD Check Detail with Invoice Level Charges -PM2,689ffed5-6999-4110-9d66-ca2d77910c1c
+WFA,Payroll & Accounting,PM3,YTD Check Detail with Invoice Level Charges,YTD Check Detail with Invoice Level Charges -PM3,bfabc5e8-993b-4187-b315-e9f87123e3bb
+WFA,Payroll & Accounting,PM4,YTD Check Detail with Invoice Level Charges,YTD Check Detail with Invoice Level Charges -PM4,ebd79a0d-00dc-4fa6-9620-854e66a02e32
+WFA,Payroll & Accounting,SMB,YTD Check Detail with Invoice Level Charges,YTD Check Detail with Invoice Level Charges -SMB,
+WFA,Tax & Compliance,CORE,4070 Tip Report,4070 Tip Report,13a69a91-2b17-4ee3-b095-473d4bf09daf
+WFA,Tax & Compliance,CORE,Quarterly Federal Tax Summary,Quarterly Federal Tax Summary,810404ee-6350-4629-a01c-939fa4f561b0
+WFA,Tax & Compliance,CORE,Quarterly State Tax Summary,Quarterly State Tax Summary,a0f364f8-67b0-40a6-86ec-c78832db0270
+WFA,Tax & Compliance,CORE,Tax Withholding,Tax Withholding,8fae88e2-b4c7-4cef-a80a-01cc2c60609a
+WFA,Tax & Compliance,CORE,Year End Balances by Employee,Year End Balances by Employee,db248691-945f-47ca-919b-21f1fbdece5f
+WFA,Payroll & Accounting,SMB,Payroll Register YTD,Payroll Register YTD,a756d434-49a2-4f90-a987-a04adefe00d2

@@ -1,0 +1,392 @@
+{
+"minskill": 0.000000,
+"maxskill": 1.000000,
+"panels": 11,
+"scenes": [
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 2,
+             "start": 0.1,
+             "chars": [
+               
+                
+            ],
+            "id": 0
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 0.3,
+             "chars": [
+              
+            ],
+            "id": 1
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 0,
+             "chars": [
+              
+            ],
+            "id": 2
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 0,
+             "chars": [
+               
+            ],
+            "id": 3
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 1,
+             "chars": [
+             
+            ],
+            "id": 4
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 1,
+             "chars": [
+              
+            ],
+            "id": 5
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 1,
+             "chars": [
+                
+            ],
+            "id": 6
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 1,
+             "chars": [
+            ],
+            "id": 7
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 2,
+             "chars": [
+            ],
+            "id": 8
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 2,
+             "chars": [
+            ],
+            "id": 9
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 2,
+             "chars": [
+            ],
+            "id": 10
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 2,
+             "chars": [
+            ],
+            "id": 11
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 3,
+             "chars": [
+               
+            ],
+            "id": 12
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 3,
+             "chars": [
+             
+            ],
+            "id": 13
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 3,
+             "chars": [
+              
+            ],
+            "id": 14
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 3,
+             "chars": [
+               
+            ],
+            "id": 15
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 4,
+             "chars": [
+               
+            ],
+            "id": 16
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 4,
+             "chars": [
+               
+            ],
+            "id": 17
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 4,
+             "chars": [
+            ],
+            "id": 18
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 4,
+             "chars": [
+               
+            ],
+            "id": 19
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 5,
+             "chars": [
+              
+            ],
+            "id": 20
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 5,
+             "chars": [
+              
+            ],
+            "id": 21
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 5,
+             "chars": [
+              
+            ],
+            "id": 22
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 5,
+             "chars": [
+            ],
+            "id": 23
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 6,
+             "chars": [
+               
+            ],
+            "id": 24
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 6,
+             "chars": [
+               
+            ],
+            "id": 25
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 6,
+             "chars": [
+            
+            ],
+            "id": 26
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 6,
+             "chars": [
+                17,
+                5
+            ],
+            "id": 27
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 7,
+             "chars": [
+            
+            ],
+            "id": 28
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 7,
+             "chars": [
+            ],
+            "id": 29
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 7,
+             "chars": [
+              
+            ],
+            "id": 30
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 7,
+             "chars": [
+            ],
+            "id": 31
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 8,
+             "chars": [
+            ],
+            "id": 32
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 8,
+             "chars": [
+            ],
+            "id": 33
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 8,
+             "chars": [
+            ],
+            "id": 34
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 8,
+             "chars": [
+            ],
+            "id": 35
+        },
+{
+            "min": 0.000000,
+            "max": 0.250000,
+            "duration": 10,
+             "start": 9,
+             "chars": [
+            ],
+            "id": 36
+        },
+{
+            "min": 0.250000,
+            "max": 0.500000,
+            "duration": 10,
+             "start": 9,
+             "chars": [
+            ],
+            "id": 37
+        },
+{
+            "min": 0.500000,
+            "max": 0.750000,
+            "duration": 10,
+             "start": 9,
+             "chars": [
+            ],
+            "id": 38
+        },
+{
+            "min": 0.750000,
+            "max": 1.000000,
+            "duration": 10,
+             "start": 9,
+             "chars": [
+            ],
+            "id": 39
+        }
+    ]
+}

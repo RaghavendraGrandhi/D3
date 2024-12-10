@@ -1,0 +1,35 @@
+/* $Id: horizontalTools.css 42949 2010-08-09 08:49:10Z sharad_rastogi $
+   /css/0.1/screen/common/modules/horizontalTools.css
+   (c)2006 - 2010 The New York Times Company  */ 
+
+@import url('/css/0.1/screen/common/modules/articletools.css');
+
+.articleTools #shareList li#shareMenuAd {
+  padding-top: 0 !important;
+  margin-top: 3px !important;
+}
+
+.articleTools,
+#shareMenu.closed {
+  width: auto !important;
+}
+
+.articleTools ul li {
+  padding: 0 10px 0 10px;
+  float: left;
+  border-bottom: medium none;
+  border-right: 1px solid #CCCCCC;
+}
+
+.articleTools {
+  font-family: arial,helvetica,sans-serif;
+}
+
+.articleTools .toolsList {
+  position: relative !important;
+  z-index: 1;
+}
+
+.articleTools #toolsList .closed {
+  border-right: medium none;
+}

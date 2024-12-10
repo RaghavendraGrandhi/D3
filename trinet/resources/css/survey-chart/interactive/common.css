@@ -1,0 +1,168 @@
+/* $Id: common.css 73334 2011-08-03 15:46:27Z priya.ollapally $
+/css/0.1/screen/interactive/common.css
+(c)2006 - 2010 The New York Times Company  */
+
+/* ledeStory overrides */
+
+.storyHeader h1 {
+  font-weight: normal;
+}
+
+#interactiveAB h1,
+#interactiveABC h1 {
+  font-size: 2.2em; /* 22px */
+  line-height: 1.182em; /* 26px */
+}
+
+#interactiveAB .ledeStory .summary,
+#interactiveABC .ledeStory .summary {
+  padding-right: 10px;
+}
+
+.ledeStory .storySummary {
+  font-size: 1em;
+  line-height: 1.9em; /* 19px */
+}
+
+.ledeStory .storySummary .summary {
+  line-height: 1.357em; /* 19px */
+}
+
+.ledeStory .storySummary .refer {
+  line-height: 1.728em; /* 19px */
+}
+
+.ledeStory .module,
+.ledeStory .columnGroup {
+  clear: none;
+}
+
+.ledeStory .runaroundRight {
+  margin-left: 10px;
+}
+
+.ledeStory:last-child,
+.module:last-child {
+  margin-bottom: 0;
+}
+
+.ledeStory .dateline {
+  margin-bottom: 5px;
+}
+
+.ledeStory .kicker {
+  margin-bottom: 2px;
+}
+
+.refer .pipe {
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+#interactiveFooter .refer .pipe {
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+#interactiveWideB .refer .pipe {
+  padding-left: 2px;
+  padding-right: 6px;
+}
+
+.caption {
+  font-style: italic;
+}
+
+.caption,
+.credit {
+  color: #808080;
+}
+
+#interactiveAB .ledeStory .byline,
+#interactiveABC .ledeStory .byline {
+  color: #333;
+}
+
+.byline,
+.refer,
+.credit {
+  font-size: 1.1em;
+  line-height: 1.2727em; /*14px*/
+}
+
+.feedback {
+  font-size: 1em;
+  line-height: 1.2em;
+}
+
+.feedback form {
+  display: inline;
+}
+
+/* interactiveFooter */
+
+#interactiveFooter {
+  clear: both;
+  padding-top: 5px;
+}
+
+#interactiveWideB #interactiveFooter {
+  clear: none;
+  padding-top: 12px;
+}
+
+#interactiveFooter .module {
+  margin-bottom: 8px;
+}
+
+#interactiveAB #interactiveFooter .adjustedColumn { /* when ad is present */
+  width: 336px;
+}
+
+#interactiveABC #interactiveFooter .adjustedColumn { /* when ad is present */
+  width: 686px; 
+}
+
+#interactiveFooter .metaData .credit {
+  text-align: left;
+}
+
+#interactiveFooter #Frame4A {
+  margin-left: 12px;
+  width: 120px;
+}
+
+/* subColumn-2 */
+
+.wideA .aColumn .subColumn-2 .lastColumn .columnGroup {
+  margin-left: 7px;
+}
+
+/* subColumn-3 related rules that need to be worked into common/layout.css */
+
+.abColumn .subColumn-3 {
+  background: url(/images/layout/subColumn-3-abColumn.gif) repeat-y;
+}
+
+.abColumn .subColumn-3 .column {
+  width: 204px;
+}
+
+.abColumn .subColumn-3 .firstColumn {
+  width: 207px;
+}
+
+.abColumn .subColumn-3 .column .columnGroup {
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.abColumn .subColumn-3 .firstColumn .columnGroup {
+  margin-left: 10px;
+}
+
+#viewAllMM { /* unable to use opposing float control */
+  float: right;
+  display: inline;
+  padding-top: 2px;
+}

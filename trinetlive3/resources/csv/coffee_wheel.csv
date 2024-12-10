@@ -1,0 +1,53 @@
+name,level 2,level 3,level 4,level 5
+Aromas,Enzymatic,Flowery,Floral,Coffee Blossom
+Aromas,Enzymatic,Flowery,Floral,Tea Rose
+Aromas,Enzymatic,Flowery,Fragrant,Cardamon Caraway
+Aromas,Enzymatic,Flowery,Fragrant,Coriander Seeds
+Aromas,Enzymatic,Fruity,Citrus,Lemon
+Aromas,Enzymatic,Fruity,Citrus,Apple
+Aromas,Enzymatic,Fruity,Berry-like,Apricot
+Aromas,Enzymatic,Fruity,Berry-like,Blackberry
+Aromas,Enzymatic,Herby,Alliaceous,Onion
+Aromas,Enzymatic,Herby,Alliaceous,Garlic
+Aromas,Enzymatic,Herby,Leguminous,Cucumber
+Aromas,Enzymatic,Herby,Leguminous,Garden Peas
+Aromas,Sugar Browning,Nutty,Nut-like,Roasted Peanuts
+Aromas,Sugar Browning,Nutty,Nut-like,Walnuts
+Aromas,Sugar Browning,Nutty,Malt-like,Balsamic Rice
+Aromas,Sugar Browning,Nutty,Malt-like,Toast
+Aromas,Sugar Browning,Carmelly,Candy-like,Roasted Hazelnut
+Aromas,Sugar Browning,Carmelly,Candy-like,Roasted Almond
+Aromas,Sugar Browning,Carmelly,Syrup-like,Honey
+Aromas,Sugar Browning,Carmelly,Syrup-like,Maple Syrup
+Aromas,Sugar Browning,Chocolatey,Chocolate-like,Bakers
+Aromas,Sugar Browning,Chocolatey,Chocolate-like,Dark Chocolate
+Aromas,Sugar Browning,Chocolatey,Vanilla-like,Swiss
+Aromas,Sugar Browning,Chocolatey,Vanilla-like,Butter
+Aromas,Dry Distillation,Resinous,Turpeny,Piney
+Aromas,Dry Distillation,Resinous,Turpeny,Blackcurrant-like
+Aromas,Dry Distillation,Resinous,Medicinal,Camphoric
+Aromas,Dry Distillation,Resinous,Medicinal,Cineolic
+Aromas,Dry Distillation,Spicy,Warming,Cedar
+Aromas,Dry Distillation,Spicy,Warming,Pepper
+Aromas,Dry Distillation,Spicy,Pungent,Clove
+Aromas,Dry Distillation,Spicy,Pungent,Thyme
+Aromas,Dry Distillation,Carbony,Smokey,Tarry
+Aromas,Dry Distillation,Carbony,Smokey,Pipe Tobacco
+Aromas,Dry Distillation,Carbony,Ashy,Burnt
+Aromas,Dry Distillation,Carbony,Ashy,Charred
+Tastes,Bitter,Pungent,Creosol,
+Tastes,Bitter,Pungent,Phenolic,
+Tastes,Bitter,Harsh,Caustic,
+Tastes,Bitter,Harsh,Alkaline,
+Tastes,Salt,Sharp,Astringent,
+Tastes,Salt,Sharp,Rough,
+Tastes,Salt,Bland,Neutral,
+Tastes,Salt,Bland,Soft,
+Tastes,Sweet,Mellow,Delicate,
+Tastes,Sweet,Mellow,Mild,
+Tastes,Sweet,Acidy,Nippy,
+Tastes,Sweet,Acidy,Piquant,
+Tastes,Sour,Winey,Tangy,
+Tastes,Sour,Winey,Tart,
+Tastes,Sour,Soury,Hard,
+Tastes,Sour,Soury,Acrid,

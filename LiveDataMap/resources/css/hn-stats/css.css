@@ -1,0 +1,350 @@
+body {
+  font-family: 'pt sans', sans-serif;
+  font-size: 12px;
+  background: #2f3336;
+}
+path {
+  fill: none;
+  stroke: black;
+}
+line {
+  stroke: black;
+}
+#title {
+  width: 900px;
+  margin: 40px auto 0 auto;
+  padding: 20px;
+  overflow: hidden;
+}
+#title p {
+  color: #a4aaae;
+  font-size: 14px;
+}
+#title #titles {
+  float: left;
+}
+#title #titles h3 {
+  font-family: montserrat, sans-serif;
+  margin: 0;
+  text-transform: uppercase;
+  color: #ced7d3;
+}
+#title #titles h3#first {
+  font-size: 165px;
+  letter-spacing: -20px;
+  line-height: 130px;
+}
+#title #titles h3#second {
+  font-size: 36px;
+  margin-left: 14px;
+  clear: left;
+}
+#title #introduction {
+  float: right;
+  width: 600px;
+}
+#weekly {
+  margin: 0 auto;
+  width: 900px;
+  padding: 20px;
+  overflow: hidden;
+}
+#weekly #weekly_list {
+  width: 290px;
+  float: left;
+  display: block;
+  font-size: 14px;
+  color: #7a7264;
+}
+#weekly #weekly_list div {
+  padding: 6px 0;
+  cursor: pointer;
+}
+#weekly #weekly_list .selected {
+  font-size: 18px;
+  padding: 4px 0;
+  color: #9ecd53;
+}
+#weekly svg#data_pointer {
+  width: 130px;
+  float: left;
+  height: 240px;
+}
+#weekly svg#data_pointer path {
+  fill: #1a1a1a;
+  stroke: #1a1a1a;
+}
+#weekly #weekly_data {
+  width: 480px;
+  float: right;
+  background: #1a1a1a;
+  height: 157px;
+  overflow: hidden;
+  margin-top: 30px;
+}
+#weekly #weekly_data .data_box {
+  width: 159px;
+  background: #232323;
+  margin-right: 1px;
+  float: left;
+}
+#weekly #weekly_data .data_title {
+  color: #4a4a4a;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-family: montserrat, 'pt sans', sans-serif;
+  padding-top: 33px;
+}
+#weekly #weekly_data .data_numbers {
+  color: #3de354;
+  font-family: economica, 'pt sans', sans-serif;
+  font-size: 60px;
+  text-align: center;
+  height: 100px;
+  text-shadow: 0px 0px 4px #2f933d;
+  filter: dropshadow(color=#2f933d, offx=0, offy=0);
+}
+#weekly #weekly_graphs {
+  display: block;
+  clear: both;
+}
+#weekly #weekly_graphs h2 {
+  float: left;
+  width: 300px;
+}
+#weekly #weekly_graphs svg {
+  width: 296px;
+  height: 300px;
+}
+#weekly #weekly_graphs svg text {
+  font-family: 'pt sans';
+}
+#weekly #weekly_graphs svg circle {
+  fill: #a0a6ab;
+}
+#weekly #weekly_graphs svg path.line {
+  stroke: #a0a6ab;
+}
+#weekly #weekly_graphs svg g.y_axis path.domain,
+#weekly #weekly_graphs svg g.x_axis path.domain {
+  shape-rendering: crispEdges;
+  stroke: #373c3f;
+}
+#weekly #weekly_graphs svg g.y_axis line,
+#weekly #weekly_graphs svg g.x_axis line {
+  stroke: #788075;
+}
+#weekly #weekly_graphs svg g.y_axis path,
+#weekly #weekly_graphs svg g.x_axis path {
+  stroke: #788075;
+}
+#weekly #weekly_graphs svg g.y_axis text,
+#weekly #weekly_graphs svg g.x_axis text {
+  fill: #788075;
+}
+#weekly #weekly_graphs svg g.guide_lines_x path,
+#weekly #weekly_graphs svg g.guide_lines_y path {
+  stroke: #788075;
+  shape-rendering: crispEdges;
+}
+#weekly #weekly_graphs svg#karma_graph g.guide_lines_x line,
+#weekly #weekly_graphs svg#uniqueArticles_graph g.guide_lines_x line,
+#weekly #weekly_graphs svg#comments_graph g.guide_lines_x line,
+#weekly #weekly_graphs svg#karma_graph g.guide_lines_y line,
+#weekly #weekly_graphs svg#uniqueArticles_graph g.guide_lines_y line,
+#weekly #weekly_graphs svg#comments_graph g.guide_lines_y line {
+  stroke: #272b2d;
+  shape-rendering: crispEdges;
+}
+#daily {
+  margin: 0 auto;
+  width: 900px;
+  padding: 20px;
+  overflow: hidden;
+}
+#daily #day_list {
+  overflow: hidden;
+}
+#daily #day_list .day,
+#daily #day_list .selected {
+  width: 49px;
+  float: left;
+  padding: 4px 0;
+  background: #242729;
+  border-right: 1px solid #1e2022;
+  border-bottom: 4px solid #1e2022;
+  cursor: pointer;
+  -webkit-transition: background 0.3s ease;
+  -moz-transition: background 0.3s ease;
+  -ms-transition: background 0.3s ease;
+  -o-transition: background 0.3s ease;
+  transition: background 0.3s ease;
+}
+#daily #day_list .day:hover,
+#daily #day_list .selected:hover {
+  background: #1e2022;
+}
+#daily #day_list .day h2,
+#daily #day_list .selected h2 {
+  font-family: economica, montserrat, sans-serif;
+  font-size: 28px;
+  margin: 0;
+}
+#daily #day_list .day h3,
+#daily #day_list .selected h3 {
+  margin: 0;
+  font-family: montserrat, 'pt sans', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: normal;
+  color: #93989c;
+}
+#daily #day_list .selected {
+  border-bottom: 1px solid #1e2022;
+  border-top: 3px solid #1e2022;
+}
+#daily #day_list .Sun {
+  margin-right: 50px;
+}
+#daily #daily_data {
+  height: 420px;
+  display: block;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+#daily #daily_data #guide {
+  width: 240px;
+  float: left;
+  display: block;
+}
+#daily #daily_data #guide span#new_karma_colour {
+  display: inline-block;
+  width: 24px;
+  height: 10px;
+  background: #cfbe90;
+}
+#daily #daily_data #guide span#new_post_colour {
+  display: inline-block;
+  width: 24px;
+  height: 10px;
+  background: #90a3cf;
+}
+#daily #daily_data #guide p {
+  color: #ddd;
+  font-size: 14px;
+  margin: 10px 0;
+}
+#daily #daily_data #guide #article_types {
+  border-top: 1px solid #191b1d;
+  padding-top: 10px;
+}
+#daily #daily_data #guide #article_types p {
+  margin: 10px 0 0 0;
+  font-size: 12px;
+}
+#daily #daily_data #guide #article_types code {
+  font-size: 16px;
+  color: #fff;
+}
+#daily #daily_data #guide #article_types a {
+  color: #c6ccd1;
+}
+#daily #daily_data #guide #article_types #top_article {
+  padding-right: 10px;
+}
+#daily #daily_data #guide #article_types #top_article a {
+  display: inline;
+  margin-left: 10px;
+}
+#daily #daily_data #guide #article_types #top_article code {
+  font-size: 14px;
+}
+#daily #daily_data svg#daily_graph {
+  width: 660px;
+  float: right;
+  height: 420px;
+  display: block;
+  background: #2a2d30;
+}
+#daily #daily_data svg#daily_graph g.guide_lines_x line,
+#daily #daily_data svg#daily_graph g.guide_lines_y line {
+  stroke: #222527;
+  shape-rendering: crispEdges;
+}
+#daily #daily_data svg#daily_graph g.guide_lines_x path,
+#daily #daily_data svg#daily_graph g.guide_lines_y path {
+  stroke: #788075;
+  shape-rendering: crispEdges;
+}
+#daily #daily_data svg#daily_graph g.x_axis line,
+#daily #daily_data svg#daily_graph g.y_axis_karma line,
+#daily #daily_data svg#daily_graph g.y_axis_post line {
+  stroke: #8b867a;
+}
+#daily #daily_data svg#daily_graph g.x_axis path,
+#daily #daily_data svg#daily_graph g.y_axis_karma path,
+#daily #daily_data svg#daily_graph g.y_axis_post path {
+  stroke: none;
+}
+#daily #daily_data svg#daily_graph g.x_axis text,
+#daily #daily_data svg#daily_graph g.y_axis_karma text,
+#daily #daily_data svg#daily_graph g.y_axis_post text {
+  fill: #8b867a;
+}
+#daily #daily_data svg#daily_graph g.line_karma path {
+  stroke: #cfbe90;
+}
+#daily #daily_data svg#daily_graph g.line_post path {
+  stroke: #90a3cf;
+}
+#daily #daily_data svg#daily_graph text#label_karma,
+#daily #daily_data svg#daily_graph text#label_post,
+#daily #daily_data svg#daily_graph text#label_time {
+  fill: #8b867a;
+}
+h1 {
+  font-family: playball, sans-serif;
+  margin: 0 0 10px 0;
+  text-align: center;
+  color: #ced7de;
+  font-size: 28px;
+}
+h1:before,
+h1:after {
+  content: "";
+  width: 380px;
+  border-top: 1px solid #43474a;
+  margin-top: 12px;
+}
+h1:before {
+  float: left;
+}
+h1:after {
+  float: right;
+}
+h2 {
+  font-family: montserrat, 'pt sans', sans-serif;
+  margin: 10px 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: normal;
+  color: #c8c2ac;
+}
+#sorrow{
+  width: 840px;
+  margin: 80px auto 0 auto;
+  height: 166px;
+  background: url('will_work.png') top right no-repeat;
+  display: block;
+  overflow: hidden;
+}
+#sorrow a{
+  display: block;
+  background: transparent;
+  height: 80px;
+  width: 129px;
+  float: right;
+  margin: 60px 11px 0 0;
+}

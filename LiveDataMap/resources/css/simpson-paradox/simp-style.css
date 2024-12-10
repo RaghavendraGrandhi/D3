@@ -1,0 +1,164 @@
+.column-label { 
+  text-anchor: middle;
+  fill: #2C3E50;
+  font-size: 1em;
+}
+
+.row-label { 
+  text-anchor: middle;
+  fill: #2C3E50;
+  font-size: 1em;
+}
+
+.node{
+  display: block;
+}
+.foci{
+  /* comment out to show foci for debugging */
+  display: none;
+  stroke: yellow;
+  stroke-width: 10px;
+}
+
+.y-axis-force.tick.major{
+  text-anchor: end;
+}
+
+
+h1{
+  text-align: center;
+  font-size: 60px;
+}
+blockquote{
+  font-size: 15px;
+}
+
+.donut-chart{
+  text-anchor: middle;
+  font-size: 20px;
+}
+
+.lead{
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+body{
+  font-size: 13px;
+  line-height: 1.3;
+}
+
+/*styles for the little line chart*/
+.y-axis path,
+.y-axis line,
+.x-axis path,
+.x-axis line {
+  fill: none;
+  stroke: #2C3E50;
+  shape-rendering: crispEdges;
+  stroke-width: 1px;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.y-axis-force path,
+.x-axis-force path {
+  fill: none;
+  stroke: #2C3E50;
+  /*shape-rendering: crispEdges;*/
+}
+.x-axis-force .domain,
+.y-axis-force .domain {
+  stroke: none;
+}
+
+.force-directed-container .combine-button{
+  position: absolute;
+  left: 25px;
+  bottom: 15px;
+}
+
+.force-directed-container{
+  /*margin-top: 20px;*/
+    text-align: center;
+}
+
+div.custom-tooltip {
+  position: absolute;
+  pointer-events: none; 
+  text-align: center;
+  background: #2C3E50;
+  border-radius: 6px;
+  padding: 10px;
+  color:white;
+}
+
+text.year-ratio, text.combined-ratio{
+  text-anchor: end;
+}
+
+
+.ui-slider.female .ui-slider-range, .ui-slider.female .ui-slider-handle{
+  background-color: #1abc9c;
+}
+
+.ui-slider.male .ui-slider-range, .ui-slider.male .ui-slider-handle{
+  background-color: #9b59b6;
+}
+
+.ui-slider-handle{
+  box-shadow: rgba(0,0,0,0.3) 0px 0px 4px 2px;
+}
+
+.force-directed-container{
+  position: relative;
+}
+
+.btn{
+  box-shadow: rgba(0,0,0,0.3) 0px 0px 4px 2px;
+}
+
+.container{
+  margin-bottom: 15px;
+}
+
+.slider-label{
+  position: absolute;
+  width: 60px;
+  bottom: -4px;
+  left: 18px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: inherit;
+  border-radius: 6px;
+  text-decoration: none;
+  color: white;
+  box-shadow: rgba(0,0,0,0.3) 0px 0px 4px 2px;
+
+}
+
+.twitter-share-button{
+  float:right;
+  margin-top: 20px;
+}
+
+text {
+  fill: #2C3E50;
+}
+
+#declaration{
+  position: relative;
+  top: -50px;
+
+}
+
+/*hr {
+  border-top: #2C3E50 solid .5px;
+  background-color: white;
+  height: .5px;
+  opacity: 0.3;
+}*/
